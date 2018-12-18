@@ -1,5 +1,5 @@
 token=NTIxOTAxNzIyNzM0NDI4MTY3.DvDKfg.4VvMqq6vGN43uEs6HE6jLomOTAA
-owner=234724558236549121
+owner=450269826724790273
 prefix= L
 game= Lplay l Lhelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
